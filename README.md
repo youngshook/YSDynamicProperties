@@ -1,13 +1,13 @@
 YSDynamicProperties
 ===================
 
-####The Problem
+##The Problem
 
 Tired of the Runtime `objc_getAssociatedObject` `objc_setAssociatedObject` to the Category implementation method of @Dynamic Property?
 
 Link [Blog Post][Blog Post]
 
-####Installation
+##Installation
 
 `YSDynamicProperties` is available through CocoaPods, to install it simply add the following line to your Podfile:
 
@@ -15,13 +15,13 @@ Link [Blog Post][Blog Post]
 pod 'YSDynamicProperties'
 ```
 
-####Usage
+##Usage
 
 1. Add `#import "NSObject+YSDynamicProperties.h"` to Category file.
 2. Define properties in `.h` Category file.
 3. Add `@dynamic` statement for each property in `.m` file.
 
-Example:
+__Example:__
 
 ```
 @interface Superman (YSKit)
@@ -46,4 +46,4 @@ Example:
 
 
 
-[Blog Post]:
+[Blog Post]:http://youngshook.com/blog/2014/07/14/Dynamic-Properties/
