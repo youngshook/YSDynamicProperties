@@ -1,5 +1,8 @@
 YSDynamicProperties
 ===================
+[![Cocoapods](https://cocoapod-badges.herokuapp.com/v/YSDynamicProperties/badge.png)](http://cocoapods.org/?q=YSDynamicProperties)
+
+Dynamic Accessors for Category Properties
 
 ##The Problem
 
@@ -44,6 +47,23 @@ __Example:__
 @end
 ```
 
-
-
 [Blog Post]:http://youngshook.com/blog/2014/07/14/Dynamic-Properties/
+
+## License
+
+This code is distributed under the terms and conditions of the [MIT license](http://opensource.org/licenses/MIT).
+
+## Donate
+
+You can support me by:
+
+* sending me iTunes Gift Cards;
+* via Alipay: shook.young@gmail.com
+* via PayPal: shook.young@gmail.com
+
+:-)
+
+## Contact
+
+* [Email](mailto:shook.young@gmail.com)
+* [Twitter](https://twitter.com/youngshook)
