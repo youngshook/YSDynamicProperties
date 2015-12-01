@@ -47,7 +47,7 @@ __Example:__
 @end
 ```
 
-[Blog Post]:http://youngshook.com/blog/2014/07/14/Dynamic-Properties/
+[Blog Post]:http://youngshook.com/tong-guo-runtimeshi-xian-dong-tai-fang-wen-categoryde-shu-xing/
 
 ## License
 
